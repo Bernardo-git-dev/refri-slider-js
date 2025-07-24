@@ -146,7 +146,7 @@ Este projeto é de código aberto e pode ser modificado e distribuído livrement
 
 ## 👨‍💻 Autor
 
-Desenvolvido com ❤️ por [Seu Nome]
+Desenvolvido com ❤️ por Bernardo Tati
 
 ## 🙏 Agradecimentos
 
