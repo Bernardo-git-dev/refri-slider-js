@@ -77,7 +77,7 @@ O projeto é totalmente responsivo e se adapta a diferentes tamanhos de tela:
 
 1. **Clone o repositório:**
 ```bash
-git clone https://seu-repositorio/refrigerante-slider.git
+git clone https://github.com/Bernardo-git-dev/refri-slider-js.git
 ```
 
 2. **Abra o arquivo `index.html`** em seu navegador
