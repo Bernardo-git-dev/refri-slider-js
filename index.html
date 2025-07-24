@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Refri | Bernardo Tati</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+  </head>
+  <body>
+    <main>
+      <!-- Morango -->
+      <div class="item active" style="--background: #ea3d41">
+        <h1 class="title">Strawberry</h1>
+        <div class="image-container">
+          <img
+            src="image/Morango-refrigerante-foregroundBlur.png"
+            alt="Imagem de refrigerante"
+            class="fruit"
+          />
+          <img
+            src="image/Morango-refrigerante.png"
+            alt="Imagem de refrigerante"
+            class="refri"
+          />
+        </div>
+      </div>
+
+      <!-- Laranja -->
+      <div class="item" style="--background: #e7a043">
+        <h1 class="title">Orange</h1>
+        <div class="image-container">
+          <img
+            class="fruit"
+            src="image/Laranja-refrigerante-foregroundBlur.png"
+            alt="imagem de Laranja"
+          />
+          <img
+            src="image/Laranja-refrigerante.png"
+            alt="Imagem de refrigerante"
+            class="refri"
+          />
+        </div>
+      </div>
+
+      <!-- Abacate -->
+      <div class="item" style="--background: #2d5643">
+        <h1 class="title">Avocado</h1>
+        <div class="image-container">
+          <img
+            class="fruit"
+            src="image/Abacate-refrigerante-foregroundBlur.png"
+            alt="imagem de refrigerante"
+          />
+          <img
+            src="image/Abacate-refrigerante.png"
+            alt="Imagem de refrigerante"
+            class="refri"
+          />
+        </div>
+      </div>
+    </main>
+
+    <div class="arrow">
+      <button id="prev">←</button>
+      <button id="next">→</button>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
